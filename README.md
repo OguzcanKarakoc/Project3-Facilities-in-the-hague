@@ -6,7 +6,7 @@ This is a software application that shows a list of facilities in The Hague for 
 
 ## Showcase 
 
-(click the image to start the video)
+(click the image to start the video, **warning: there is music in the video**)
 
 [![Watch the video](https://oguzcankarakoc.github.io/storage/project3-facilities-in-the-hague/project-3.jpg)](https://oguzcankarakoc.github.io/storage/project3-facilities-in-the-hague/showcase.mp4)
 
