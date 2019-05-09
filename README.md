@@ -20,6 +20,7 @@ to run the project you have to follow the instructions listed below.
 2. Go inside the folder `SchoolProject3-year1/bin/Debug`
 3. Execute: `SchoolProject3-year1.exe`
 
-(optional)
-2. Make sure you have visual studio 20xx installed:
+(optional)  
+1. ...
+2. Make sure you have visual studio 20xx installed  
 3. Click the run button
